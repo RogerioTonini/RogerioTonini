@@ -18,8 +18,37 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 
+# Projetos-AnaliseDados
+Projetos desenvolvidos a partir de desafios dos cursos e afins
+---
+<table border="1" style="width:100%">
+    <thead>
+        <tr>
+            <td align="left">Projeto</td>
+            <td align="left">Instituição de Ensino</td>
+            <td align="left">Finalidade</td>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td align="left">
+                <a href="https://github.com/RogerioTonini/Projetos-AnaliseDados/tree/main/7DaysOfCode.io">Tratar_Base_De_Dados</a>
+            </td>
+            <td align="left">ALURA</td>
+            <td align="left">Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://github.com/RogerioTonini/Projetos-AnaliseDados/tree/main/XPERIUN/Python_Basico">Movimentação_Arquivos</a>
+            </td>
+            <td>Curso: FAD - XPERIUN</td>
+            <td>Automatização de Movimentação de Arquivos</td>
+        </tr>
+    </body>
+</table>
 
 
 
