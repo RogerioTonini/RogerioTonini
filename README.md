@@ -41,6 +41,8 @@ Projetos desenvolvidos a partir de desafios dos cursos e afins
             </td>
             <td>
                 Curso: FAD - XPERIUN
+            </td>
+            <td>
                 Modelagem dos dados enviados pela equipe administrativa do XHospital
                 Objetivo: Criação de insights para avaliar através de KPIs
                 Avaliação dos atendimento realizados pelos colaboradores
