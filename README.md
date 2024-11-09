@@ -39,21 +39,21 @@ Projetos desenvolvidos a partir de desafios dos cursos e afins
             <td align="left">
                 <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados POC Hospital</a>
             </td>
-            <td align="left"> FAD - XPERIUN</td>
+            <td align="left">XPERIUN</td>
             <td>
-                Modelagem dos dados enviados pela equipe administrativa do XHospital
-                Objetivo: Criação de insights para avaliar através de KPIs
-                Avaliação dos atendimento realizados pelos colaboradores
-                Possíveis gargalos em determinados perídos do dia
-                Possível sobrecarga dos funcionários
-                Tempo Médio dos atendimentos, entre outros
+                <p>Modelagem dos dados enviados pela equipe administrativa do XHospital</p>
+                <p>Objetivo: Criação de insights para avaliar através de KPIs</p>
+                <p>Avaliação dos atendimento realizados pelos colaboradores</p>
+                <p>Possíveis gargalos em determinados perídos do dia</p>
+                <p>Possível sobrecarga dos funcionários</p>
+                <p>Tempo Médio dos atendimentos, entre outros</p>
             </td>
         </tr>
         <tr>
             <td align="left">
                 <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
             </td>
-            <td align="left"> FAD - XPERIUN</td>
+            <td align="left">XPERIUN</td>
             <td align="left"> Automatização de Movimentação de Arquivos</td>
         </tr>
     </body>
