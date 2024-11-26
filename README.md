@@ -14,7 +14,7 @@
 
 ---
 ## Bibliotecas
-<table border="1" style="width:0%">
+<table border="0" style="width:150%">
     <body>
         <tr> <td align="left"> <a href="https://github.com/RogerioTonini/Excel">EXCEL         </a> </td> </tr>
         <tr> <td align="left"> <a href="https://github.com/RogerioTonini/Excel-VBA">EXCEL-VBA </a> </td> </tr>
