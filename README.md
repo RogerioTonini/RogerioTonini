@@ -14,15 +14,12 @@
 
 ---
 ## Bibliotecas
-|-------------|--------------------------------------------------------|
+
 | EXCEL       | https://github.com/RogerioTonini/Excel                 |
-|-------------|--------------------------------------------------------|
 | EXCEL-VBA   | https://github.com/RogerioTonini/EXCEL-VBA             |
-|-------------|--------------------------------------------------------|
 | Linguagem M | https://github.com/RogerioTonini/Ling_M                | 
-|-------------|--------------------------------------------------------|
 | SQL         | https://github.com/RogerioTonini/SQL_Comandos_Diversos |
-|-------------|--------------------------------------------------------|
+
 ---
 ## Projetos: Analise Dados
 Projetos desenvolvidos a partir de desafios dos cursos e AFINS
