@@ -18,11 +18,17 @@
 #### - 🚵‍♀️ Hobbies: Acampar, caminhada, trilha, ciclismo
 ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?    style=for-the-badge&logo=microsoft-access&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.  io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&    logoColor=ffdd54)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 ## Bibliotecas
-<table style="width:100%">
+<table border=none style="width:100%">
     <body>
         <tr> <td align="left"> <a href="https://github.com/RogerioTonini/Excel">EXCEL         </a> </td> </tr>
         <tr> <td align="left"> <a href="https://github.com/RogerioTonini/Excel-VBA">EXCEL-VBA </a> </td> </tr>
