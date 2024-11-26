@@ -17,13 +17,17 @@
 # Bibliotecas
 
 ---
-<table border="1" style="width:100%">
-
+<table border="1" style="width:50%">
+    <thead>
+        <tr>
+            <td align="Biblioteca">Linguagem M</td>
+            <td align="left">Conteúdo</td>
+        </tr>
+    </thead>
 </table>
 
 # Projetos: Analise Dados
 Projetos desenvolvidos a partir de desafios dos cursos e afins
-
 ---
 
 <table border="1" style="width:100%">
@@ -66,6 +70,7 @@ Projetos desenvolvidos a partir de desafios dos cursos e afins
     </body>
 </table>
 
+<!--
 # Example headings
 
 ## Sample Section
@@ -90,3 +95,18 @@ Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+
+**RogerioTonini/RogerioTonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
