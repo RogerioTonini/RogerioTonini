@@ -13,7 +13,6 @@
 
 ---
 ## Hard Skills
----
 <div align="left">
     <a href="https://support.microsoft.com/pt-br/access" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/access.svg" width="36" height="36" alt="Microsoft Access" /></a>
     <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" width="36" height="36" alt="Microsoft Excel" /></a>
@@ -29,8 +28,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </div>
---- 
 
+--- 
 # Bibliotecas
 <table border=none style="width:100%">
     <body>
