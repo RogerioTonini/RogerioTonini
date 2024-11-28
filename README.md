@@ -14,7 +14,7 @@
 ---
 ## Hard Skills
 <div align="center">
-    <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" width="36" height="36" alt="Microsoft Excel" /></a>
+    <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" width="48" height="48" alt="Microsoft Excel" /></a>
     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerbi.png" width="36" height="36" alt="Power BI" /></a>
     <a href="https://daxstudio.org" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/dax-studio.png" width="36" height="36" alt="Dax Studio" /></a>
     <a href="https://www.sqlbi.com/tools/tabular-editor" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/tabular-editor.png" width="36" height="36" alt="Tabular Editor" /></a>
