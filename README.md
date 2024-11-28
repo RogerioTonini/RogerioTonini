@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-<!--
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark_high_contrast" data-a11y-animated-images="system" data-a11y-link-underlines="true" data-google-analytics-opt-out="" data-turbo-loaded="">
-    <head>
-        <style data-merge-styles="true"> </style>
-        <meta charset="utf-8">
-    </head>
--->
 # 🙌 Bem vindo ao meu perfil !!!
 
 #### - 🎓Formação: Tecnólogo de Redes de Computadores 
@@ -17,9 +10,7 @@
 
 #### - 🚵‍♀️ Hobbies: Acampar, caminhada, trilha, ciclismo
 ---
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
----
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Excel](https://github.com/RogerioTonini/images/excel.png) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 ## Bibliotecas
