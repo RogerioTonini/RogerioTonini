@@ -103,8 +103,8 @@
 -->
 
   ## Analise Dados - Bibliotecas / Projetos
-  <table border="1" style="width:100%">
-      <thead>
+  <!-- <table border="1" style="width:100%"> -->
+  <thead>
           <tr>
               <td align="center">Biblioteca / Projeto</td>
               <td align="center">Empresa</td>
@@ -154,7 +154,7 @@
             <td align="left"> Biblioteca: MS-SQL</td>
           </tr>
         </body>
-  </table>
+  <!-- </table> -->
 </html>
 <!--
 ## Estatísticas
