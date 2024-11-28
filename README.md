@@ -47,7 +47,7 @@
     </a>
     <!-- Microsoft SQL Server -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-		  <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server2.png" width="46" height="46" alt="Microsoft SQL Server" />
+		  <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server.png" width="46" height="46" alt="Microsoft SQL Server" />
     </a>
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -103,8 +103,8 @@
 -->
 
   ## Analise Dados - Bibliotecas / Projetos
-  <!-- <table border="1" style="width:100%"> -->
-  <thead>
+  <table border="1" style="width:100%"> -->
+    <thead>
           <tr>
               <td align="center">Biblioteca / Projeto</td>
               <td align="center">Empresa</td>
@@ -113,18 +113,19 @@
       </thead>
       <body>
           <tr>
-              <td align="left">
-                  <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
-              </td>
+              <td align="left"> <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a> </td>
               <td align="center">
                 <a href="https://www.alura.com.br/" target="_blank" rel="noreferrer">
                   <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura"/></a>
               </td>
-              <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
+              <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN </td>
           </tr>
           <!-- -->
           <tr>
-              <td align="left">   <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados P.S.</a> </td>
+              <td align="left">
+                <a href="https://www.xperiun.com/" target="_blank" rel="noreferrer">              
+                <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados para Database </a> 
+              </td>
               <td align="center"> <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/> </a> </td>
               <td>
                   <p>Modelagem dos dados enviados pela equipe administrativa do XHospital</p>
@@ -137,24 +138,30 @@
           </tr>
           <!-- -->
           <tr>
-              <td align="left">   <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a> </td>
-              <td align="center"> <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a> </td>
+              <td align="left">   <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico"> Movimentação Arquivos</a> </td>
+              <td align="center"> 
+                <a href="https://www.xperiun.com/" target="_blank" rel="noreferrer">                            
+                <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a>
+              </td>
               <td align="left"> Automatização de Movimentação de Arquivos</td>
           </tr>
           <!-- -->
           <tr> 
-            <td align="left"> <a href="https://github.com/RogerioTonini/Ling_M"></a> </td> 
-            <td align="center">.</td>
-              <td align="left"> Biblioteca: Linguagem M</td>
+            <td align="left"> <a href="https://github.com/RogerioTonini/Ling_M"> Linguagem M</a> </td> 
+            <td align="center">
+                <a href="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerquery.png" target="_blank" rel="noreferrer">
+              <td align="left"> Funções diversas</td>
           </tr>          
           <!-- -->
           <tr> 
-            <td align="left"> <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"></a> </td> 
-            <td align="center">.</td>
-            <td align="left"> Biblioteca: MS-SQL</td>
+            <td align="left"> <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"> MS-SQL</a> </td> 
+            <td align="center">
+                <a href="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server.png" target="_blank" rel="noreferrer">
+            </td>
+            <td align="left"> Stored procedures diversas</td>
           </tr>
         </body>
-  <!-- </table> -->
+  </table>
 </html>
 <!--
 ## Estatísticas
