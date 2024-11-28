@@ -107,7 +107,7 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
     <thead>
         <tr>
             <td align="left">Projeto</td>
-            <td align="left">Instituição de Ensino</td>
+            <td align="left">Empresa</td>
             <td align="left">Finalidade</td>
         </tr>
     </thead>
@@ -116,8 +116,8 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
             <td align="left">
                 <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
             </td>
-            <td style="text-align:center"> <!-- > align="center"> -->
-              <a href="https://https://www.alura.com.br/" target="_blank" rel="noreferrer">
+            <td align="center">
+              <!-- <a href="https://https://www.alura.com.br/" target="_blank" rel="noreferrer"> -->
 		            <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura" />
               </a>
             </td>
