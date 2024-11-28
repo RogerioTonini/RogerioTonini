@@ -149,24 +149,25 @@
               </td>
               <td align="left"> Automatização de Movimentação de Arquivos</td>
           </tr>
+          <!-- -->
           <tr> 
             <td align="left">
               <a href="https://github.com/RogerioTonini/Ling_M"></a> 
             </td> 
           </tr>
-          <tr><td></td></tr>
           <tr>
               <td align="left"> Biblioteca: Linguagem M</td>
           </tr>          
+<!--
           <tr> 
             <td align="left">
               <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"></a> 
             </td> 
           </tr>
-          <tr><td></td></tr>
           <tr>
               <td align="left"> Biblioteca: MS-SQL</td>
           </tr>
+-->
         </body>
   </table>
 </html>
