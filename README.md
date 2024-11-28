@@ -68,6 +68,10 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 		  <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/python-colored.svg" width="46" height="46" alt="Python" />
     </a>
+    <!-- Postman -->
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+		  <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/postman.svg" width="46" height="46" alt="Python" />
+    </a>    
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 		  <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/html5-colored.svg" width="46" height="46" alt="HTML5" />
@@ -112,9 +116,9 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
             <td align="left">
                 <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
             </td
-            <td>
+            <td style="text-align:center"> <!-- > align="center"> -->
               <a href="https://https://www.alura.com.br/" target="_blank" rel="noreferrer">
-		            <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" align="center" width="36" height="36" alt="Alura" />
+		            <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura" />
               </a>
             </td>
             <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
