@@ -139,15 +139,17 @@
       <td align="left"> <a href="https://github.com/RogerioTonini/Ling_M"> Linguagem M</a> </td> 
       <td align="center">
           <a href="https://learn.microsoft.com/pt-br/powerquery-m/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerquery.png" width="36" height="36" alt="Alura"/></a>
+            <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerquery.png" width="36" height="36" alt="Power Query"/>
+          </a>
       <td align="left"> Funções diversas</td>
     </tr>          
     <!-- -->
     <tr> 
       <td align="left"> <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"> MS-SQL</a> </td> 
       <td align="center">
-          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-          <a src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server.png" width="36" height="36" alt="SQL Server"/></a>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+          <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server.png" width="36" height="36" alt="SQL Server"/>
+        </a>
       </td>
       <td align="left"> Stored procedures diversas</td>
     </tr>
