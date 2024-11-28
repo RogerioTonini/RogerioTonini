@@ -1,18 +1,41 @@
 <!DOCTYPE html>
 # 🙌 Bem vindo ao meu perfil !!!
 
-#### - 🎓Formação: Tecnólogo de Redes de Computadores 
-#### - 🎓Técnico em Processamento de Dados
+#### * 🌍  Resido em São Paulo
 
-#### - 📚 Estudando: Análise de Dados (XPERIUN, Black Eagle)
+#### * 🎓Formação: Tecnólogo de Redes de Computadores 
+#### * 🎓Técnico em Processamento de Dados
 
-#### - 🗣️ Línguas: Inglês (Leitura técnica)
+#### * 📚 Estudando: Análise de Dados (XPERIUN, Black Eagle)
+#### * 🗣️ Línguas: Inglês (Leitura técnica)
+#### * 🚵‍♀️ Hobbies: Acampar, caminhada, trilha, ciclismo
+#### * ✉️ Contato: [rogerio.tonini@gmail.com](mailto:rogerio.tonini@gmail.com)
 
-#### - 🚵‍♀️ Hobbies: Acampar, caminhada, trilha, ciclismo
 ---
-![Excel](https://github.com/RogerioTonini/images/excel.png) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="left">
+    <a href="https://support.microsoft.com/pt-br/access" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png"  width="36" height="36" alt="Microsoft Access" /></a>
+    <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png"  width="36" height="36" alt="Microsoft Excel" /></a>
+    <a href="https://daxstudio.org" target="_blank" rel="noreferrer"> <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/dax-studio.
+    png"  width="36" height="36" alt="Dax Studio" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/blob/main/images/sql-server.png"  width="36" height="36" alt="Microsoft SQL Server" /></a>
+<!--
+    https://github.com/RogerioTonini/blob/main/images/
+    <a href="https://www.sqlbi.com/tools/tabular-editor" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/blob/main/images/tabular-editor.png"  width="36" height="36" alt="Tabular Editor" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+    </a><a href="https://learn.microsoft.com/pt-br/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/powershell.png" width="36" height="36" alt="Power Shell" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+-->
+</div>
 
----
+
 ## Bibliotecas
 <table border=none style="width:100%">
     <body>
@@ -66,3 +89,13 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
     </body>
 </table>
 </html>
+
+<!--
+![Excel](https://github.com/RogerioTonini/images/excel.png) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&
+logo=visual-studio-code&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&
+logo=microsoft-access&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) !
+[MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) !
+[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/
+Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+-->
+---
