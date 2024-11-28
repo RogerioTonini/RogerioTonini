@@ -1,4 +1,11 @@
 <!DOCTYPE html>
+
+<style>
+    #menu a{
+        width="48" height="48"
+    }
+</style>
+
 # 🙌 Bem vindo ao meu perfil !!!
 
 #### * 🌍  Resido em São Paulo
@@ -13,6 +20,24 @@
 
 ---
 ## Hard Skills
+<div align="center" >
+    <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" alt="Microsoft Excel" /></a>
+    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerbi.png" alt="Power BI" /></a>
+    <a href="https://daxstudio.org" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/dax-studio.png" alt="Dax Studio" /></a>
+    <a href="https://www.sqlbi.com/tools/tabular-editor" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/tabular-editor.png" alt="Tabular Editor" /></a>
+    <a href="https://support.microsoft.com/pt-br/access" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/access.svg" alt="Microsoft Access" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/sql-server.png" alt="Microsoft SQL Server" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/mysql-colored.svg" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/postgresql-colored.svg" alt="PostgreSQL" /></a>
+    <a href="https://learn.microsoft.com/pt-br/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powershell.png" alt="Power ShellL" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/visualstudiocode.png" alt="VS Code" />
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/python-colored.svg" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/html5-colored.svg" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/css3-colored.svg" alt="CSS3" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/figma-colored.svg" alt="Figma" /></a>
+</div>
+
+<!--
 <div align="center">
     <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" width="48" height="48" alt="Microsoft Excel" /></a>
     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerbi.png" width="36" height="36" alt="Power BI" /></a>
@@ -29,7 +54,7 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
-
+-->
 --- 
 ## Bibliotecas
 <table border=none style="width:100%">
