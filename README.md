@@ -112,7 +112,11 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
             <td align="left">
                 <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
             </td>
-            <td align="left"> ALURA</td>
+            <td align="certer"> 
+                <a href="https://https://www.alura.com.br/" target="_blank" rel="noreferrer">
+		              <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura" />
+                </a>
+            </td>
             <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
         </tr>
         <tr>
@@ -138,9 +142,8 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
         </tr>
     </body>
 </table>
-
+<!--
 ## Estatísticas
-
 <a href="http://www.github.com/RogerioTonini">
   <img src="https://github-readme-stats.vercel.app/api?username=RogerioTonini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RogerioTonini's GitHub stats" />
 </a>
@@ -150,5 +153,4 @@ Projetos desenvolvidos a partir de desafios dos cursos e AFINS
 <a href="https://github.com/RogerioTonini" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioTonini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-</html>
+-->
