@@ -90,7 +90,7 @@
 </div>
 
 ## Analise Dados - Bibliotecas / Projetos
-<table border="1" style="width:100%"> -->
+<table border="1" style="width:100%">
   <thead>
     <tr>
         <td align="center">Biblioteca / Projeto</td>
