@@ -124,12 +124,8 @@
           </tr>
           <!-- -->
           <tr>
-              <td align="left">
-                  <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados P.S.</a>
-              </td>
-              <td align="center">
-                <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a>
-              </td>
+              <td align="left">   <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados P.S.</a> </td>
+              <td align="center"> <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/> </a> </td>
               <td>
                   <p>Modelagem dos dados enviados pela equipe administrativa do XHospital</p>
                   <p>Objetivo: Criação de insights para avaliar através de KPIs</p>
@@ -141,33 +137,22 @@
           </tr>
           <!-- -->
           <tr>
-              <td align="left">
-                  <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
-              </td>
-              <td align="center">
-                <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a>
-              </td>
+              <td align="left">   <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a> </td>
+              <td align="center"> <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a> </td>
               <td align="left"> Automatização de Movimentação de Arquivos</td>
           </tr>
           <!-- -->
           <tr> 
-            <td align="left">
-              <a href="https://github.com/RogerioTonini/Ling_M"></a> 
-            </td> 
-          </tr>
-          <tr>
+            <td align="left"> <a href="https://github.com/RogerioTonini/Ling_M"></a> </td> 
+            <td align="center">.</td>
               <td align="left"> Biblioteca: Linguagem M</td>
           </tr>          
-<!--
+          <!-- -->
           <tr> 
-            <td align="left">
-              <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"></a> 
-            </td> 
+            <td align="left"> <a href="https://github.com/RogerioTonini/SQL_Comandos_Diversos"></a> </td> 
+            <td align="center">.</td>
+            <td align="left"> Biblioteca: MS-SQL</td>
           </tr>
-          <tr>
-              <td align="left"> Biblioteca: MS-SQL</td>
-          </tr>
--->
         </body>
   </table>
 </html>
