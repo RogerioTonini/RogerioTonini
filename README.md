@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 
 # 🙌 Bem vindo ao meu perfil !!!
 
@@ -101,51 +102,50 @@
     </body>
 </table>
 
-## Projetos: Analise Dados
-Projetos desenvolvidos a partir de desafios dos cursos e AFINS
-<table border="1" style="width:100%">
-    <thead>
-        <tr>
-            <td align="left">Projeto</td>
-            <td align="left">Empresa</td>
-            <td align="left">Finalidade</td>
-        </tr>
-    </thead>
-    <body>
-        <tr>
-            <td align="left">
-                <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
-            </td>
-            <td align="center">
-              <!-- <a href="https://https://www.alura.com.br/" target="_blank" rel="noreferrer"> -->
-		            <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura" />
-              </a>
-            </td>
-            <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
-        </tr>
-        <tr>
-            <td align="left">
-                <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados POC Hospital</a>
-            </td>
-            <td align="left">XPERIUN</td>
-            <td>
-                <p>Modelagem dos dados enviados pela equipe administrativa do XHospital</p>
-                <p>Objetivo: Criação de insights para avaliar através de KPIs</p>
-                <p>Avaliação dos atendimento realizados pelos colaboradores</p>
-                <p>Possíveis gargalos em determinados perídos do dia</p>
-                <p>Possível sobrecarga dos funcionários</p>
-                <p>Tempo Médio dos atendimentos, entre outros</p>
-            </td>
-        </tr>
-        <tr>
-            <td align="left">
-                <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
-            </td>
-            <td align="left">XPERIUN</td>
-            <td align="left"> Automatização de Movimentação de Arquivos</td>
-        </tr>
-    </body>
-</table>
+  ## Projetos: Analise Dados
+  Projetos desenvolvidos a partir de desafios dos cursos e AFINS
+  <table border="1" style="width:100%">
+      <thead>
+          <tr>
+              <td align="center">Projeto</td>
+              <td align="center">Empresa</td>
+              <td align="center">Objetivo</td>
+          </tr>
+      </thead>
+      <body>
+          <tr>
+              <td align="left">
+                  <a href="https://github.com/RogerioTonini/AD_7DaysOfCode.io">Tratar_Base_De_Dados</a>
+              </td>
+              <td align="center">
+                <a href="https://https://www.alura.com.br/"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/alura.png" width="36" height="36" alt="Alura"/></a>
+              </td>
+              <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
+          </tr>
+          <tr>
+              <td align="left">
+                  <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados POC Hospital</a>
+              </td>
+              <td align="left">XPERIUN</td>
+              <td>
+                  <p>Modelagem dos dados enviados pela equipe administrativa do XHospital</p>
+                  <p>Objetivo: Criação de insights para avaliar através de KPIs</p>
+                  <p>Avaliação dos atendimento realizados pelos colaboradores</p>
+                  <p>Possíveis gargalos em determinados perídos do dia</p>
+                  <p>Possível sobrecarga dos funcionários</p>
+                  <p>Tempo Médio dos atendimentos, entre outros</p>
+              </td>
+          </tr>
+          <tr>
+              <td align="left">
+                  <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
+              </td>
+              <td align="left">XPERIUN</td>
+              <td align="left"> Automatização de Movimentação de Arquivos</td>
+          </tr>
+      </body>
+  </table>
+</html>
 <!--
 ## Estatísticas
 <a href="http://www.github.com/RogerioTonini">
