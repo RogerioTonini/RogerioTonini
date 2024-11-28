@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 
 <style>
-    #menu a{
+	#menu{
+		align="center"
+	}
+	
+    #menu a img{
         width="100";
 		height="100";
     }
@@ -21,7 +25,7 @@
 
 ---
 ## Hard Skills
-<div align="center" >
+<div id="menu">
     <a href="https://support.microsoft.com/pt-br/excel" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/excel.png" alt="Microsoft Excel" /></a>
     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/powerbi.png" alt="Power BI" /></a>
     <a href="https://daxstudio.org" target="_blank" rel="noreferrer"><img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/dax-studio.png" alt="Dax Studio" /></a>
