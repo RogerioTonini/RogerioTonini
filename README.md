@@ -102,8 +102,7 @@
 </table>
 -->
 
-  ## Projetos: Analise Dados
-  Bibliotecas e Projetos desenvolvidos
+  ## Analise Dados - Bibliotecas / Projetos
   <table border="1" style="width:100%">
       <thead>
           <tr>
@@ -123,6 +122,7 @@
               </td>
               <td align="left"> Tratar a base de dados de empréstimos de livros das Bibliotecas da UFRN</td>
           </tr>
+          <!-- -->
           <tr>
               <td align="left">
                   <a href="https://github.com/RogerioTonini/AD_XPERIUN_D-007_XHospital_Internacoes">Carga de Dados P.S.</a>
@@ -139,15 +139,7 @@
                   <p>Tempo Médio dos atendimentos, entre outros</p>
               </td>
           </tr>
-          <tr>
-              <td align="left">
-                  <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
-              </td>
-              <td align="center">
-                <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/xperiun.png" width="36" height="36" alt="Alura"/></a>
-              </td>
-              <td align="left"> Automatização de Movimentação de Arquivos</td>
-          </tr>
+          <!-- -->
           <tr>
               <td align="left">
                   <a href="https://github.com/RogerioTonini/AD_XPERIUN_Python_Basico">Movimentação_Arquivos</a>
