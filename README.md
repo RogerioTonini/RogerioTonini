@@ -4,11 +4,9 @@
 # 🙌 Bem vindo ao meu perfil !!!
 
 #### * 🌍  Resido em São Paulo
-#### * 🎓Formação: Tecnólogo de Redes de Computadores 
-#### * 🎓Técnico em Processamento de Dados
+#### * 🎓Formação: Tecnólogo de Redes de Computadores  / Técnico em Processamento de Dados
 #### * 📚 Estudando: Análise de Dados (XPERIUN, Black Eagle)
 #### * 🗣️ Línguas: Inglês (Leitura técnica)
-#### * 🚵‍♀️ Hobbies: Acampar, caminhada, trilha, ciclismo
 #### * ✉️ Contato: [rogerio.tonini@gmail.com](mailto:rogerio.tonini@gmail.com)
 
 ## Redes Sociais
