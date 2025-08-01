@@ -153,7 +153,7 @@
     </tr>
     <!-- -->
     <tr> 
-      <td align="left"> <a href="https://github.com/RogerioTonini/MySQL"> MS-SQL</a> </td> 
+      <td align="left"> <a href="https://github.com/RogerioTonini/MySQL"> MySQL</a> </td> 
       <td align="center">
         <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
           <img src="https://github.com/RogerioTonini/RogerioTonini/blob/main/images/mysql-colored.svg" width="36" height="36" alt="SQL Server"/>
